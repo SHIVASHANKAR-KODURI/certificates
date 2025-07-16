@@ -1,5 +1,7 @@
 # certificates
 
+![-NVIDIA fundamentals of deep learning](https://github.com/user-attachments/assets/6063f24f-7764-4f12-a3a1-829e9422747c)
+
 ![CCNAv7](https://github.com/user-attachments/assets/5b3c2c16-84f9-40ae-82c7-47e9f24251c1)
 
 ![AWS Academy Cloud Web Application Builder](https://github.com/user-attachments/assets/80a4f65c-bb93-41b5-b6d7-072cc9c98549)
